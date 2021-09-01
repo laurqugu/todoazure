@@ -1,1 +1,3 @@
-# todoazure
+# TodoAzure
+
+Example of Azure Function
